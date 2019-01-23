@@ -1,6 +1,6 @@
 package com.apiautomation.constants;
 
-
+// This class contains the constants required by the application
 public class AppConfig {
 	public static final String BASE_URI = "http://localhost:3000";
 	public static final String BASE_PATH = "/api";
