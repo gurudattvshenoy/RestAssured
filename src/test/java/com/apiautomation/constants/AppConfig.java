@@ -7,7 +7,7 @@ public class AppConfig {
 	public static String TOKEN;
 	public static String USER_NAME ="guruvshenoy";
 	public static String EMAIL ="guruvshenoy@gmail.com";
-	public static String PASSWORD ="Passw0rd";
+	public static String PASSWORD ="";
 }
 
 
